@@ -1,0 +1,8 @@
+{
+  "name": "SafeCircuit",
+  "description": "An interactive, educational electrical safety simulation platform teaching beginners how common household electrical problems develop and how AI-assisted diagnostics identify simulated risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
